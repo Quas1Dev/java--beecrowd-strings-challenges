@@ -1,0 +1,27 @@
+# Ignore build output directories
+/build/
+/dist/
+
+# Ignore NetBeans specific files
+/nbproject/private/
+
+# Ignore generated source files
+/build/generated-sources/
+
+# Ignore class files
+*.class
+
+# Ignore any other temporary files or directories
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+*.idea/
+*.vscode/
